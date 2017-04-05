@@ -1,0 +1,8 @@
+c:\users\sukesh\documents\visual studio 2010\Projects\emptyapp\bin\emptyapp.dll
+c:\users\sukesh\documents\visual studio 2010\Projects\emptyapp\bin\emptyapp.pdb
+c:\users\sukesh\documents\visual studio 2010\Projects\emptyapp\bin\emptyapp.xml
+c:\users\sukesh\documents\visual studio 2010\Projects\emptyapp\obj\Debug\emptyapp.Resources.resources
+c:\users\sukesh\documents\visual studio 2010\Projects\emptyapp\obj\Debug\emptyapp.vbproj.GenerateResource.Cache
+c:\users\sukesh\documents\visual studio 2010\Projects\emptyapp\obj\Debug\emptyapp.dll
+c:\users\sukesh\documents\visual studio 2010\Projects\emptyapp\obj\Debug\emptyapp.xml
+c:\users\sukesh\documents\visual studio 2010\Projects\emptyapp\obj\Debug\emptyapp.pdb
